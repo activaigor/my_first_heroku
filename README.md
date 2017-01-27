@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/activaigor/my_first_heroku.png?label=ready&title=Ready)](https://waffle.io/activaigor/my_first_heroku)
 # python-getting-started
 
 Lets try again!
